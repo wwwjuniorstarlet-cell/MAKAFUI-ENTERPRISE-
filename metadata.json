@@ -1,0 +1,6 @@
+{
+  "name": "MAKAFUI ENTERPRISE",
+  "description": "Building materials & construction supplies in Ho-Titrinu, Volta Region, Ghana. Quality roofing sheets, cement, smart paint, iron rods, timber, tools, and delivery services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
